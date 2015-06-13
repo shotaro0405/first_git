@@ -1,3 +1,4 @@
+hogehoge
 # yamanote = ["新宿", "池袋", "東京", "品川", "大崎"]
 # yamanote[5] = "渋谷"
 
